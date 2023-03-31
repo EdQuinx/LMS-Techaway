@@ -1,0 +1,14 @@
+.suo
+*.suo
+*.dll
+*.pdb
+*.exe
+*.xml
+*.config
+.vs
+*.application
+obj
+logs
+bin
+Migrations
+*.manifest
